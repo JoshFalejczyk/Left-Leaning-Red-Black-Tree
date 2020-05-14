@@ -15,6 +15,10 @@ Functions/Usage:
 10. Copy Constructor/Copy Assignment Operator (included for good practice of dynamic memory allocation)
 11. Destructor (properly frees manually allocated memory within RBTree)
 
+To Run: 
+1. Compile using "make" or "g++ -Wall 201MainPhase2.cpp".
+2. Run using "./phase2" for the former compilation command, or "./a.exe" (or "./a.out" if on Mac) for the latter.
+
 Credit: 
 1. The concept of this project and 201MainPhase2.cpp test runner file were written and supplied by my professor, Dr. Brandon Dixon.
 2. The RBTree.cpp file and Makefile were written by myself.
